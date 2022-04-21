@@ -1,0 +1,19 @@
+.h {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+#name {
+    align-content: center;
+    color: orangered;
+    background-color: navy;
+    color: white
+}
+
+.fontall {
+    font-size: 20px;
+}
+
+.body {
+    font-family: 'Times New Roman', Times, serif;
+}
